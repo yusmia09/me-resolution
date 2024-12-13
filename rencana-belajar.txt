@@ -1,4 +1,6 @@
 Rencana Belajar
 
 Belajar bahasa baru 
+- Belajar framework js
+- Belajar Python
 belajar lebih dalam mengenai mechine learning
