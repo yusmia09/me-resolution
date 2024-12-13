@@ -2,6 +2,8 @@ Rencana Belajar
 
 Belajar bahasa baru 
 - Belajar framework js
+ "aqular"
+"react"
 - Belajar Python
 belajar lebih dalam mengenai mechine learning
 belajar data mining/data
