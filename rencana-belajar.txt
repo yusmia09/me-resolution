@@ -4,3 +4,4 @@ Belajar bahasa baru
 - Belajar framework js
 - Belajar Python
 belajar lebih dalam mengenai mechine learning
+belajar data mining/data
